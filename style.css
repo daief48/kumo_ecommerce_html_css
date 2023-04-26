@@ -108,9 +108,9 @@ section{
     vertical-align: middle;
 }
 .down-arrow{
-    position: absolute;
-    top: 85%;
+    position: fixed;
     right: 11%;
+    bottom: 17px;
 }
 .down i{
     font-size: 30px;
