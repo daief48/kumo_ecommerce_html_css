@@ -111,6 +111,7 @@ section{
     position: fixed;
     right: 11%;
     bottom: 17px;
+    z-index: 4444;
 }
 .down i{
     font-size: 30px;
